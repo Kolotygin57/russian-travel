@@ -1,0 +1,20 @@
+.header__langs {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding-top: 20px; /* Отступ в угоду перфект-пиксель */
+  }
+  
+ 
+  @media screen and (max-width: 1024px) {
+    .header__langs {
+      padding-top: 17px; /* Отступ в угоду перфект-пиксель */
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    .header__langs {
+      padding-top: 13px; /* Отступ в угоду перфект-пиксель */
+    }
+  }
+  
