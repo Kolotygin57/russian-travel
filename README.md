@@ -2,4 +2,4 @@
  - Сайт, рассказывающий об интересных местах для путешествий на территории России. 
 Страница сверстана по макету из Figma и адаптирована под различные устройства (от 320px до 1280px).
 Ссылка на проект:
-https://github.com/Kolotygin57/russian-travel/index.html
+https://github.com/Kolotygin57/russian-travel.git
